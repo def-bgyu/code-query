@@ -1,0 +1,6 @@
+gitpython
+langchain
+chromadb
+openai
+fastapi
+uvicorn
